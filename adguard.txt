@@ -50,3 +50,4 @@ _ads_
 ||tobapplog.ctobsnssdk.com^
 ||access.pangolin-sdk-toutiao-b.com^
 ||ulogs.umengcloud.com^
+||*.coolapk.com/v6/feed/detail^$replace=/SponsorCard":/test":/
