@@ -38,3 +38,15 @@ _ads_
 ||ctfile.com/iz.php?
 /ad_display
 ||jin.baidu.com/cloan/operation/activity
+||access1.tpns.tencent.com^
+||astrategy.beacon.qq.com.com^
+||aeventlog.beacon.qq.com.com^
+||aeventlog.beacon.qq.com^
+||oth.eve.mdt.qq.com.com^
+||oth.eve.qq.com^
+||ug.snssdk.com^
+||v3-be-pack.pglstatp-toutiao.com^
+||sf3-be-pack.pglstatp-toutiao.com^
+||tobapplog.ctobsnssdk.com^
+||access.pangolin-sdk-toutiao-b.com^
+||ulogs.umengcloud.com^
