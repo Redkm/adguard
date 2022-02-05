@@ -51,3 +51,7 @@ _ads_
 ||access.pangolin-sdk-toutiao-b.com^
 ||ulogs.umengcloud.com^
 ||*.coolapk.com/v6/feed/detail^$replace=/SponsorCard":/test":/
+||hm.baidu.com^$third-party
+||dlswbr.baidu.com^
+/track.gif?
+/hunter/alog/*
