@@ -55,3 +55,4 @@ _ads_
 ||dlswbr.baidu.com^
 /track.gif?
 /hunter/alog/*
+||sanme2.taisantech.com^
