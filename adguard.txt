@@ -1,5 +1,7 @@
 /pagead2.
 /adsense/*
+*/ad
+/w.gif?
 ##.adsbygoogle
 ||sanme2.taisantech.com^
 ||google-analytics.com^$third-party
@@ -7,4 +9,8 @@
 ||googletagmanager.com^
 ||cnzz.com^$third-party
 ||woozooo.com/img/*.js
-||
+||dlswbr.baidu.com^
+||hm.baidu.com^$third-party
+||als.baidu.com^
+||downapp.baidu.com^
+
