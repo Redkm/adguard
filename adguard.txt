@@ -13,4 +13,10 @@
 ||hm.baidu.com^$third-party
 ||als.baidu.com^
 ||downapp.baidu.com^
-
+||zz.bdstatic.com^
+||zhihu.com/commercial_api/banners_
+||pv.sohu.com^
+||sugar.zhihu.com^
+||cpo.baidustatic.com^
+||zhuhu-web-analytics.zhihu.com^
+||zhihu.com/zbst/events/
